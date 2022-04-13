@@ -13,7 +13,11 @@ Based on [A Million Random Digits](https://www.rand.org/pubs/monograph_reports/M
 ## Questions
 
 Q: How do I get Nix?
+
 A: ~~Ask David Mossborough, he probably knows~~ https://nixos.org/download.html
 
+----
+
 Q: Isn't this overengineered?
+
 A: Isn't the rest of the game?
