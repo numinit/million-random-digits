@@ -8,6 +8,7 @@ Based on [A Million Random Digits](https://www.rand.org/pubs/monograph_reports/M
 
 - Get nix
 - `nix-build` or `nix build` depending on what version of nix you have
+- Result is symlinked to `result`
 
 ## Questions
 
